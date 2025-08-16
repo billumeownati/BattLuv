@@ -34,6 +34,15 @@ Made with ❤️ by **BiLLuMiNaTi and Twilight**
 4. View your **Battery Health** directly in the app.  
 5. (Optional) Click **"Open Report"** to view the full `battery-report.html`.
 
+---
+
 ## ⚠️ Notes
 - Works only on **Windows** (uses the built-in `powercfg` command).  
 - No installation needed – just download and run the `.exe`.   
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** – feel free to use and share.  
+
+---
