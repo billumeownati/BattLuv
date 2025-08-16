@@ -12,7 +12,7 @@ from tkinter import messagebox
 REPORT_PATH = os.path.join(os.path.expanduser("~"), "battery-report.html")
 APP_TITLE = "BattLuv"
 BRANDING = "⚡ Made by BiLLuMiNaTi & Twilight"
-ICON_FILE = "battluv.ico"   # icon file name
+ICON_FILE = "logo.ico"   # icon file name
 
 # -------- Theme Palettes --------
 THEMES = {
@@ -293,3 +293,4 @@ branding_label.pack(pady=5)
 
 apply_theme()
 root.mainloop()
+
